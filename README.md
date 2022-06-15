@@ -17,7 +17,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Class bias creates big issue in generalising the model.
+- Class rebalancing help tackle the class imbalance issues.
 - Always need regularisation and Drop out in the model to make it more generalize.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
